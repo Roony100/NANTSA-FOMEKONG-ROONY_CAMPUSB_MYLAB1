@@ -12,7 +12,7 @@ Inside the repo, click Add file → Upload files
 Drag your files/folders into the box  
 (e.g., code, images, project files)  
 
-Scroll down and click Commit changes
+Scroll down and click Commit changes 
 ### heading 3
 #### heading 4
 ##### heading 5  
@@ -21,7 +21,14 @@ Scroll down and click Commit changes
 ###### heading 6
 >okay lets go level 200
 
-This is `<h1>` an H1 heading
+This is `<h1>` an H1 heading     
+
+```CMD
+GIT CLONE <URL>
+```
+```JAVASCRIPT
+ CONSOLE.LOG ("HELLOW")
+
 
 
 
