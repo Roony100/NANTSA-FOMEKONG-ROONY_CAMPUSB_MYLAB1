@@ -28,23 +28,3 @@ GIT CLONE <URL>
 ```
 ```JAVASCRIPT
  CONSOLE.LOG ("HELLOW")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
