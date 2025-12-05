@@ -4,17 +4,11 @@
  youtube  
 ## heading 2  
 **Go to github.com**  
-
 ***Log into your account.***  
-
 Click New Repository (top-right “+” icon)  
-
 Name your repo (example: my-project)  
-
 Click Create Repository  
-
 Inside the repo, click Add file → Upload files  
-
 Drag your files/folders into the box  
 (e.g., code, images, project files)  
 
@@ -23,6 +17,7 @@ Scroll down and click Commit changes
 #### heading 4
 ##### heading 5
 ###### heading 6
+
 
 
 
